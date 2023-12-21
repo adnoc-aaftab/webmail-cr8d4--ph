@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/webmail-cr8d4--ph/static/css/main.b3ff8ad7.css",
+    "main.js": "/webmail-cr8d4--ph/static/js/main.daa34758.js",
+    "static/js/787.ae044ec2.chunk.js": "/webmail-cr8d4--ph/static/js/787.ae044ec2.chunk.js",
+    "static/media/hobspot-loader.webp": "/webmail-cr8d4--ph/static/media/hobspot-loader.b653093eceea45b8803d.webp",
+    "index.html": "/webmail-cr8d4--ph/index.html",
+    "main.b3ff8ad7.css.map": "/webmail-cr8d4--ph/static/css/main.b3ff8ad7.css.map",
+    "main.daa34758.js.map": "/webmail-cr8d4--ph/static/js/main.daa34758.js.map",
+    "787.ae044ec2.chunk.js.map": "/webmail-cr8d4--ph/static/js/787.ae044ec2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3ff8ad7.css",
+    "static/js/main.daa34758.js"
+  ]
+}
