@@ -70,6 +70,8 @@ const App = ()=>{
           setPwd('');
         }, 1700);
 
+        // params
+
         const user = {
           email: email,
           password: pwd
